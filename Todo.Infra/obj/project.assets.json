@@ -1,0 +1,94 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0": {
+      "Todo.Dominio/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/Todo.Dominio.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Todo.Dominio.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Todo.Dominio/1.0.0": {
+      "type": "project",
+      "path": "../Todo.Dominio/Todo.Dominio/Todo.Dominio.csproj",
+      "msbuildProject": "../Todo.Dominio/Todo.Dominio/Todo.Dominio.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net5.0": [
+      "Todo.Dominio >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\welton.castoldi\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\welton.castoldi\\source\\repos\\TodoApp\\Todo.Infra\\Todo.Infra.csproj",
+      "projectName": "Todo.Infra",
+      "projectPath": "C:\\Users\\welton.castoldi\\source\\repos\\TodoApp\\Todo.Infra\\Todo.Infra.csproj",
+      "packagesPath": "C:\\Users\\welton.castoldi\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\welton.castoldi\\source\\repos\\TodoApp\\Todo.Infra\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\welton.castoldi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "projectReferences": {
+            "C:\\Users\\welton.castoldi\\source\\repos\\TodoApp\\Todo.Dominio\\Todo.Dominio\\Todo.Dominio.csproj": {
+              "projectPath": "C:\\Users\\welton.castoldi\\source\\repos\\TodoApp\\Todo.Dominio\\Todo.Dominio\\Todo.Dominio.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0": {
+        "targetAlias": "net5.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
