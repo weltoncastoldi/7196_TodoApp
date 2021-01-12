@@ -6,7 +6,6 @@
 
   <ItemGroup>
     <Folder Include="AlunoContext\" />
-    <Folder Include="TodoContext\Handlers\" />
     <Folder Include="TodoContext\Validators\" />
   </ItemGroup>
 

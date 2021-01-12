@@ -1,20 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\DEV\\github\\7196-\\Todo.Api\\Todo.Api\\Todo.Api.csproj": {}
+    "C:\\DEV\\GIT\\7196\\Todo.Api\\Todo.Api\\Todo.Api.csproj": {}
   },
   "projects": {
-    "D:\\DEV\\github\\7196-\\Todo.Api\\Todo.Api\\Todo.Api.csproj": {
+    "C:\\DEV\\GIT\\7196\\Todo.Api\\Todo.Api\\Todo.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\DEV\\github\\7196-\\Todo.Api\\Todo.Api\\Todo.Api.csproj",
+        "projectUniqueName": "C:\\DEV\\GIT\\7196\\Todo.Api\\Todo.Api\\Todo.Api.csproj",
         "projectName": "Todo.Api",
-        "projectPath": "D:\\DEV\\github\\7196-\\Todo.Api\\Todo.Api\\Todo.Api.csproj",
-        "packagesPath": "C:\\Users\\WeltonLocal\\.nuget\\packages\\",
-        "outputPath": "D:\\DEV\\github\\7196-\\Todo.Api\\Todo.Api\\obj\\",
+        "projectPath": "C:\\DEV\\GIT\\7196\\Todo.Api\\Todo.Api\\Todo.Api.csproj",
+        "packagesPath": "C:\\Users\\welton.castoldi\\.nuget\\packages\\",
+        "outputPath": "C:\\DEV\\GIT\\7196\\Todo.Api\\Todo.Api\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\WeltonLocal\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\welton.castoldi\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -28,11 +31,11 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "D:\\DEV\\github\\7196-\\Todo.Dominio\\Todo.Dominio\\Todo.Dominio.csproj": {
-                "projectPath": "D:\\DEV\\github\\7196-\\Todo.Dominio\\Todo.Dominio\\Todo.Dominio.csproj"
+              "C:\\DEV\\GIT\\7196\\Todo.Dominio\\Todo.Dominio\\Todo.Dominio.csproj": {
+                "projectPath": "C:\\DEV\\GIT\\7196\\Todo.Dominio\\Todo.Dominio\\Todo.Dominio.csproj"
               },
-              "D:\\DEV\\github\\7196-\\Todo.Infra\\Todo.Infra.csproj": {
-                "projectPath": "D:\\DEV\\github\\7196-\\Todo.Infra\\Todo.Infra.csproj"
+              "C:\\DEV\\GIT\\7196\\Todo.Infra\\Todo.Infra.csproj": {
+                "projectPath": "C:\\DEV\\GIT\\7196\\Todo.Infra\\Todo.Infra.csproj"
               }
             }
           }
@@ -84,21 +87,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\DEV\\github\\7196-\\Todo.Dominio\\Todo.Dominio\\Todo.Dominio.csproj": {
+    "C:\\DEV\\GIT\\7196\\Todo.Dominio\\Todo.Dominio\\Todo.Dominio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\DEV\\github\\7196-\\Todo.Dominio\\Todo.Dominio\\Todo.Dominio.csproj",
+        "projectUniqueName": "C:\\DEV\\GIT\\7196\\Todo.Dominio\\Todo.Dominio\\Todo.Dominio.csproj",
         "projectName": "Todo.Dominio",
-        "projectPath": "D:\\DEV\\github\\7196-\\Todo.Dominio\\Todo.Dominio\\Todo.Dominio.csproj",
-        "packagesPath": "C:\\Users\\WeltonLocal\\.nuget\\packages\\",
-        "outputPath": "D:\\DEV\\github\\7196-\\Todo.Dominio\\Todo.Dominio\\obj\\",
+        "projectPath": "C:\\DEV\\GIT\\7196\\Todo.Dominio\\Todo.Dominio\\Todo.Dominio.csproj",
+        "packagesPath": "C:\\Users\\welton.castoldi\\.nuget\\packages\\",
+        "outputPath": "C:\\DEV\\GIT\\7196\\Todo.Dominio\\Todo.Dominio\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\WeltonLocal\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\welton.castoldi\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -138,21 +144,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\DEV\\github\\7196-\\Todo.Infra\\Todo.Infra.csproj": {
+    "C:\\DEV\\GIT\\7196\\Todo.Infra\\Todo.Infra.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\DEV\\github\\7196-\\Todo.Infra\\Todo.Infra.csproj",
+        "projectUniqueName": "C:\\DEV\\GIT\\7196\\Todo.Infra\\Todo.Infra.csproj",
         "projectName": "Todo.Infra",
-        "projectPath": "D:\\DEV\\github\\7196-\\Todo.Infra\\Todo.Infra.csproj",
-        "packagesPath": "C:\\Users\\WeltonLocal\\.nuget\\packages\\",
-        "outputPath": "D:\\DEV\\github\\7196-\\Todo.Infra\\obj\\",
+        "projectPath": "C:\\DEV\\GIT\\7196\\Todo.Infra\\Todo.Infra.csproj",
+        "packagesPath": "C:\\Users\\welton.castoldi\\.nuget\\packages\\",
+        "outputPath": "C:\\DEV\\GIT\\7196\\Todo.Infra\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\WeltonLocal\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\welton.castoldi\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -166,8 +175,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "D:\\DEV\\github\\7196-\\Todo.Dominio\\Todo.Dominio\\Todo.Dominio.csproj": {
-                "projectPath": "D:\\DEV\\github\\7196-\\Todo.Dominio\\Todo.Dominio\\Todo.Dominio.csproj"
+              "C:\\DEV\\GIT\\7196\\Todo.Dominio\\Todo.Dominio\\Todo.Dominio.csproj": {
+                "projectPath": "C:\\DEV\\GIT\\7196\\Todo.Dominio\\Todo.Dominio\\Todo.Dominio.csproj"
               }
             }
           }
@@ -196,7 +205,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     }

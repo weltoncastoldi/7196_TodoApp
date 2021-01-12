@@ -8,10 +8,11 @@ namespace Todo.Dominio.Entidades
 {
     public class TodoItem: Entidade
     {
-        public TodoItem(Guid id, string title, bool done, DateTime date, string user) : base(id)
+
+        public TodoItem(string title, DateTime date, string user, Guid? id) : base(id)
         {
             Title = title;
-            Done = done;
+            Done = false;
             Date = date;
             User = user;
         }

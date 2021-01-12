@@ -5,11 +5,11 @@ namespace Todo.Dominio.Entidades
     public abstract class Entidade: IEquatable<Entidade>
     {
         // Quando uma classe a abstrada ninguém consegue instanciar ela.
-        protected Entidade(Guid id)
+        public Entidade(Guid? id)
         {
             Id = Guid.NewGuid();
         }
-
+        
         public Guid Id { get; private set; }
 
         public bool Equals(Entidade? other)

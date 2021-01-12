@@ -3,3 +3,14 @@ C:\Users\welton.castoldi\source\repos\TodoApp\Todo.Dominio\Todo.Dominio\obj\Debu
 C:\Users\welton.castoldi\source\repos\TodoApp\Todo.Dominio\Todo.Dominio\obj\Debug\net5.0\Todo.Dominio.AssemblyInfoInputs.cache
 C:\Users\welton.castoldi\source\repos\TodoApp\Todo.Dominio\Todo.Dominio\obj\Debug\net5.0\Todo.Dominio.AssemblyInfo.cs
 C:\Users\welton.castoldi\source\repos\TodoApp\Todo.Dominio\Todo.Dominio\obj\Debug\net5.0\Todo.Dominio.csproj.CoreCompileInputs.cache
+C:\DEV\GIT\7196\Todo.Dominio\Todo.Dominio\bin\Debug\net5.0\Todo.Dominio.deps.json
+C:\DEV\GIT\7196\Todo.Dominio\Todo.Dominio\bin\Debug\net5.0\Todo.Dominio.dll
+C:\DEV\GIT\7196\Todo.Dominio\Todo.Dominio\bin\Debug\net5.0\ref\Todo.Dominio.dll
+C:\DEV\GIT\7196\Todo.Dominio\Todo.Dominio\bin\Debug\net5.0\Todo.Dominio.pdb
+C:\DEV\GIT\7196\Todo.Dominio\Todo.Dominio\obj\Debug\net5.0\Todo.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\DEV\GIT\7196\Todo.Dominio\Todo.Dominio\obj\Debug\net5.0\Todo.Dominio.AssemblyInfoInputs.cache
+C:\DEV\GIT\7196\Todo.Dominio\Todo.Dominio\obj\Debug\net5.0\Todo.Dominio.AssemblyInfo.cs
+C:\DEV\GIT\7196\Todo.Dominio\Todo.Dominio\obj\Debug\net5.0\Todo.Dominio.csproj.CoreCompileInputs.cache
+C:\DEV\GIT\7196\Todo.Dominio\Todo.Dominio\obj\Debug\net5.0\Todo.Dominio.dll
+C:\DEV\GIT\7196\Todo.Dominio\Todo.Dominio\obj\Debug\net5.0\ref\Todo.Dominio.dll
+C:\DEV\GIT\7196\Todo.Dominio\Todo.Dominio\obj\Debug\net5.0\Todo.Dominio.pdb
