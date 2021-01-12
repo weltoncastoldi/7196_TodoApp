@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "dseynngN+zywBPWrsVTZEvPOPTBDszovanwvhwBDNET/nxukzm2u7/vYcFYzDwv7raLXex4QoAs2+Fq0w+PI0w==",
+  "dgSpecHash": "aKEA01EsckKBgofMdjDOeHDAfDZBKCI9RhYp5V0BGciSbxLNsuEGXkxGDJT+dERJFzVW1PVb7GLQ+1cvye84/w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\welton.castoldi\\source\\repos\\TodoApp\\Todo.Infra\\Todo.Infra.csproj",
+  "projectFilePath": "D:\\DEV\\github\\7196-\\Todo.Infra\\Todo.Infra.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

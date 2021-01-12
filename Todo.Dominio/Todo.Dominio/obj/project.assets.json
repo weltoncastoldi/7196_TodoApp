@@ -8,23 +8,19 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\welton.castoldi\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\WeltonLocal\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\welton.castoldi\\source\\repos\\TodoApp\\Todo.Dominio\\Todo.Dominio\\Todo.Dominio.csproj",
+      "projectUniqueName": "D:\\DEV\\github\\7196-\\Todo.Dominio\\Todo.Dominio\\Todo.Dominio.csproj",
       "projectName": "Todo.Dominio",
-      "projectPath": "C:\\Users\\welton.castoldi\\source\\repos\\TodoApp\\Todo.Dominio\\Todo.Dominio\\Todo.Dominio.csproj",
-      "packagesPath": "C:\\Users\\welton.castoldi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\welton.castoldi\\source\\repos\\TodoApp\\Todo.Dominio\\Todo.Dominio\\obj\\",
+      "projectPath": "D:\\DEV\\github\\7196-\\Todo.Dominio\\Todo.Dominio\\Todo.Dominio.csproj",
+      "packagesPath": "C:\\Users\\WeltonLocal\\.nuget\\packages\\",
+      "outputPath": "D:\\DEV\\github\\7196-\\Todo.Dominio\\Todo.Dominio\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\welton.castoldi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\WeltonLocal\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -64,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
       }
     }
   }

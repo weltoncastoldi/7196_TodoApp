@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="AlunoContext\" />
+    <Folder Include="TodoContext\Handlers\" />
+    <Folder Include="TodoContext\Validators\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Flunt" Version="1.0.5" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Todo.Dominio\Todo.Dominio\Todo.Dominio.csproj" />
+  </ItemGroup>
+
+</Project>

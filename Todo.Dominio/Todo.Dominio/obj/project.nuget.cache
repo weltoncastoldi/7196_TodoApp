@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tOGBhYR2GM9VW49FJ00ViG019gy4bFtO0PJDHiZKVwCk8gB1lA4ZzCNAd6ISiVKKNwSPS2/yxeILCqIygziSCA==",
+  "dgSpecHash": "t3MZgx4d5YlqUz/U6oK0jVzfGRj3OBziK+6y21gO3J0wprPvDSVuzXdVJBbhEFW5YzdwWlDnt8Pmg92Uh72VMw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\welton.castoldi\\source\\repos\\TodoApp\\Todo.Dominio\\Todo.Dominio\\Todo.Dominio.csproj",
+  "projectFilePath": "D:\\DEV\\github\\7196-\\Todo.Dominio\\Todo.Dominio\\Todo.Dominio.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

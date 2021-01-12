@@ -27,23 +27,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\welton.castoldi\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\WeltonLocal\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\welton.castoldi\\source\\repos\\TodoApp\\Todo.Infra\\Todo.Infra.csproj",
+      "projectUniqueName": "D:\\DEV\\github\\7196-\\Todo.Infra\\Todo.Infra.csproj",
       "projectName": "Todo.Infra",
-      "projectPath": "C:\\Users\\welton.castoldi\\source\\repos\\TodoApp\\Todo.Infra\\Todo.Infra.csproj",
-      "packagesPath": "C:\\Users\\welton.castoldi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\welton.castoldi\\source\\repos\\TodoApp\\Todo.Infra\\obj\\",
+      "projectPath": "D:\\DEV\\github\\7196-\\Todo.Infra\\Todo.Infra.csproj",
+      "packagesPath": "C:\\Users\\WeltonLocal\\.nuget\\packages\\",
+      "outputPath": "D:\\DEV\\github\\7196-\\Todo.Infra\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\welton.castoldi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\WeltonLocal\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -57,8 +53,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\welton.castoldi\\source\\repos\\TodoApp\\Todo.Dominio\\Todo.Dominio\\Todo.Dominio.csproj": {
-              "projectPath": "C:\\Users\\welton.castoldi\\source\\repos\\TodoApp\\Todo.Dominio\\Todo.Dominio\\Todo.Dominio.csproj"
+            "D:\\DEV\\github\\7196-\\Todo.Dominio\\Todo.Dominio\\Todo.Dominio.csproj": {
+              "projectPath": "D:\\DEV\\github\\7196-\\Todo.Dominio\\Todo.Dominio\\Todo.Dominio.csproj"
             }
           }
         }
@@ -87,7 +83,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
       }
     }
   }
