@@ -1,12 +1,8 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using Todo.Aplicacao.TodoContext.Repository;
 using Todo.Dominio.Entidades;
 
-namespace Todo.Test.Context.Todo.Repository
+namespace Todo.Test.Contexto.Todo.Repository
 {
     public class FakeTodoRepository : ITodoRepository
     {
@@ -16,6 +12,11 @@ namespace Todo.Test.Context.Todo.Repository
 
         public void Update(TodoItem todo)
         {
+        }
+
+        public TodoItem GetById(Guid id, string usuario)
+        {
+            return new TodoItem("Titulo",DateTime.Now, "Usuario", Guid.Empty);
         }
     }
 }

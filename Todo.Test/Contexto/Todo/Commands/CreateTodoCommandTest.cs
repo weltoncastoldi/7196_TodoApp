@@ -2,7 +2,7 @@
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using Todo.Aplicacao.TodoContext.Commands;
 
-namespace Todo.Test.Context.Todo.Commands
+namespace Todo.Test.Contexto.Todo.Commands
 {
     [TestClass]
     public class CreateTodoCommandTest

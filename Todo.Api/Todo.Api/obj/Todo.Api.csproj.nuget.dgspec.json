@@ -34,8 +34,8 @@
               "C:\\DEV\\GIT\\7196\\Todo.Dominio\\Todo.Dominio\\Todo.Dominio.csproj": {
                 "projectPath": "C:\\DEV\\GIT\\7196\\Todo.Dominio\\Todo.Dominio\\Todo.Dominio.csproj"
               },
-              "C:\\DEV\\GIT\\7196\\Todo.Infra\\Todo.Infra.csproj": {
-                "projectPath": "C:\\DEV\\GIT\\7196\\Todo.Infra\\Todo.Infra.csproj"
+              "C:\\DEV\\GIT\\7196\\Todo.Infra\\Todo.Infra.Data.csproj": {
+                "projectPath": "C:\\DEV\\GIT\\7196\\Todo.Infra\\Todo.Infra.Data.csproj"
               }
             }
           }
@@ -148,12 +148,12 @@
         }
       }
     },
-    "C:\\DEV\\GIT\\7196\\Todo.Infra\\Todo.Infra.csproj": {
+    "C:\\DEV\\GIT\\7196\\Todo.Infra\\Todo.Infra.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\DEV\\GIT\\7196\\Todo.Infra\\Todo.Infra.csproj",
-        "projectName": "Todo.Infra",
-        "projectPath": "C:\\DEV\\GIT\\7196\\Todo.Infra\\Todo.Infra.csproj",
+        "projectUniqueName": "C:\\DEV\\GIT\\7196\\Todo.Infra\\Todo.Infra.Data.csproj",
+        "projectName": "Todo.Infra.Data",
+        "projectPath": "C:\\DEV\\GIT\\7196\\Todo.Infra\\Todo.Infra.Data.csproj",
         "packagesPath": "C:\\Users\\welton.castoldi\\.nuget\\packages\\",
         "outputPath": "C:\\DEV\\GIT\\7196\\Todo.Infra\\obj\\",
         "projectStyle": "PackageReference",
@@ -190,6 +190,12 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.InMemory": {
+              "target": "Package",
+              "version": "[5.0.2, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

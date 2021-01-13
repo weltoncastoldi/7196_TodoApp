@@ -1,4 +1,5 @@
-﻿using Todo.Dominio.Entidades;
+﻿using System;
+using Todo.Dominio.Entidades;
 
 namespace Todo.Aplicacao.TodoContext.Repository
 {
@@ -6,5 +7,6 @@ namespace Todo.Aplicacao.TodoContext.Repository
     {
         void Create(TodoItem todo);
         void Update(TodoItem todo);
+        TodoItem GetById(Guid id, string usuario);
     }
 }

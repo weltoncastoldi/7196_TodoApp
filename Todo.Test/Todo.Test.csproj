@@ -21,9 +21,9 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Context\Cpa\TipoResposta\" />
-    <Folder Include="Context\Cpa\Questao\" />
-    <Folder Include="Context\Cpa\Questionario\" />
+    <Folder Include="Contexto\Cpa\TipoResposta\" />
+    <Folder Include="Contexto\Cpa\Questao\" />
+    <Folder Include="Contexto\Cpa\Questionario\" />
   </ItemGroup>
 
 </Project>

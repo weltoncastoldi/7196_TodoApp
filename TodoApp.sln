@@ -11,7 +11,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "INFRAS", "INFRAS", "{0A2C8B
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Todo.Dominio", "Todo.Dominio\Todo.Dominio\Todo.Dominio.csproj", "{02896E32-1F53-4E0F-B94B-F0923F74B37B}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Todo.Infra", "Todo.Infra\Todo.Infra.csproj", "{4893FDE3-D194-47C5-829E-55B55529296D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Todo.Infra.Data", "Todo.Infra\Todo.Infra.Data.csproj", "{4893FDE3-D194-47C5-829E-55B55529296D}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Todo.Api", "Todo.Api\Todo.Api\Todo.Api.csproj", "{DC0D90F9-A130-4E94-ABFB-A253FC5050C9}"
 EndProject
@@ -35,7 +35,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Todo.Aplicacao", "Todo.Apli
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "TESTS", "TESTS", "{188D318B-AA72-4CD2-9DBE-D64741F2A8F1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Todo.Test", "Todo.Test\Todo.Test.csproj", "{10AF1F68-FEBB-4DCB-AE58-3E3211038A24}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Todo.Test", "Todo.Test\Todo.Test.csproj", "{10AF1F68-FEBB-4DCB-AE58-3E3211038A24}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
