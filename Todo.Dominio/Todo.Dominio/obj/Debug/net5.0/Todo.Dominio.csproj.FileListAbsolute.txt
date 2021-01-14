@@ -14,3 +14,4 @@ C:\DEV\GIT\7196\Todo.Dominio\Todo.Dominio\obj\Debug\net5.0\Todo.Dominio.csproj.C
 C:\DEV\GIT\7196\Todo.Dominio\Todo.Dominio\obj\Debug\net5.0\Todo.Dominio.dll
 C:\DEV\GIT\7196\Todo.Dominio\Todo.Dominio\obj\Debug\net5.0\ref\Todo.Dominio.dll
 C:\DEV\GIT\7196\Todo.Dominio\Todo.Dominio\obj\Debug\net5.0\Todo.Dominio.pdb
+C:\DEV\GIT\7196\Todo.Dominio\Todo.Dominio\obj\Debug\net5.0\Todo.Dominio.csprojAssemblyReference.cache

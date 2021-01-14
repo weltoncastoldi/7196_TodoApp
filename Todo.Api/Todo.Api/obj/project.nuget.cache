@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "gntX8VTQT5QK1Nh2zQTawqVUkHv6LzqZmithLukN/0IsWQFVXdi5HqZJnYuqPFbpkC9CPRPMefS7geZkWDtbfw==",
+  "dgSpecHash": "OPOCb1dkuYNBfC8ru0HYWsJ2XP9NSiDNetou9byma2NYrOR5KpJdswaPZx41YXOCZu3aT9/0oK+bnqZVwpFZ9Q==",
   "success": true,
   "projectFilePath": "C:\\DEV\\GIT\\7196\\Todo.Api\\Todo.Api\\Todo.Api.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\welton.castoldi\\.nuget\\packages\\flunt\\1.0.5\\flunt.1.0.5.nupkg.sha512",
     "C:\\Users\\welton.castoldi\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\5.0.0\\microsoft.aspnetcore.authentication.jwtbearer.5.0.0.nupkg.sha512",
     "C:\\Users\\welton.castoldi\\.nuget\\packages\\microsoft.aspnetcore.authentication.openidconnect\\5.0.0\\microsoft.aspnetcore.authentication.openidconnect.5.0.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

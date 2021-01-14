@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "j0fsAOeS6T3o5YbMgIXlNatpGVKQJxXkjUkigdrGFYtn2Yg95RWi8NBFXdGHkN2LiF0hd+AeLSH8fruqI0xVXg==",
+  "dgSpecHash": "k3ot1dL8+pHfw4AS02yrE3OcYfkfiLV97Jnb7ka6e0KXeQOFVKSIUUpdpe1vLQ8yj5MbfPYVxcb73/17SV+ZxA==",
   "success": true,
   "projectFilePath": "C:\\DEV\\GIT\\7196\\Todo.Infra\\Todo.Infra.Data.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\welton.castoldi\\.nuget\\packages\\flunt\\1.0.5\\flunt.1.0.5.nupkg.sha512",
     "C:\\Users\\welton.castoldi\\.nuget\\packages\\microsoft.entityframeworkcore\\5.0.2\\microsoft.entityframeworkcore.5.0.2.nupkg.sha512",
     "C:\\Users\\welton.castoldi\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\5.0.2\\microsoft.entityframeworkcore.abstractions.5.0.2.nupkg.sha512",
     "C:\\Users\\welton.castoldi\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\5.0.2\\microsoft.entityframeworkcore.analyzers.5.0.2.nupkg.sha512",

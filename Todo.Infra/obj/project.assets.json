@@ -2,6 +2,15 @@
   "version": 3,
   "targets": {
     "net5.0": {
+      "Flunt/1.0.5": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/Flunt.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Flunt.dll": {}
+        }
+      },
       "Microsoft.EntityFrameworkCore/5.0.2": {
         "type": "package",
         "dependencies": {
@@ -173,6 +182,20 @@
           "lib/net5.0/System.Diagnostics.DiagnosticSource.dll": {}
         }
       },
+      "Todo.Aplicacao/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "Flunt": "1.0.5",
+          "Todo.Dominio": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Todo.Aplicacao.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Todo.Aplicacao.dll": {}
+        }
+      },
       "Todo.Dominio/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v5.0",
@@ -186,6 +209,18 @@
     }
   },
   "libraries": {
+    "Flunt/1.0.5": {
+      "sha512": "2p1B/LLsMf0bGwyMQK48/278OXTodXn3HyTU1v7fr/x0bNfrVSNC1Do1PxbgiOlDLChtAbtt1kPgXFqUnGAagg==",
+      "type": "package",
+      "path": "flunt/1.0.5",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "flunt.1.0.5.nupkg.sha512",
+        "flunt.nuspec",
+        "lib/netstandard2.0/Flunt.dll"
+      ]
+    },
     "Microsoft.EntityFrameworkCore/5.0.2": {
       "sha512": "N2OZJWngaR5ydwdp2YH18ag3LN9DK0iCBPJyJ1DNSlI1rSZqmYmtOdPHoM6Wwwvbkw1WVhVQ/1w/8zr4h74EPg==",
       "type": "package",
@@ -556,6 +591,11 @@
         "version.txt"
       ]
     },
+    "Todo.Aplicacao/1.0.0": {
+      "type": "project",
+      "path": "../Todo.Aplicacao/Todo.Aplicacao.csproj",
+      "msbuildProject": "../Todo.Aplicacao/Todo.Aplicacao.csproj"
+    },
     "Todo.Dominio/1.0.0": {
       "type": "project",
       "path": "../Todo.Dominio/Todo.Dominio/Todo.Dominio.csproj",
@@ -565,6 +605,7 @@
   "projectFileDependencyGroups": {
     "net5.0": [
       "Microsoft.EntityFrameworkCore.InMemory >= 5.0.2",
+      "Todo.Aplicacao >= 1.0.0",
       "Todo.Dominio >= 1.0.0"
     ]
   },
@@ -599,6 +640,9 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
+            "C:\\DEV\\GIT\\7196\\Todo.Aplicacao\\Todo.Aplicacao.csproj": {
+              "projectPath": "C:\\DEV\\GIT\\7196\\Todo.Aplicacao\\Todo.Aplicacao.csproj"
+            },
             "C:\\DEV\\GIT\\7196\\Todo.Dominio\\Todo.Dominio\\Todo.Dominio.csproj": {
               "projectPath": "C:\\DEV\\GIT\\7196\\Todo.Dominio\\Todo.Dominio\\Todo.Dominio.csproj"
             }

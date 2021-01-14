@@ -4,11 +4,11 @@ using Todo.Dominio.Entidades;
 
 namespace Todo.Infra.Data.Contexts
 {
-    public class DataContext: DbContext
+    public class DataContext : DbContext
     {
         public DataContext(DbContextOptions<DataContext> options) : base(options)
         {
-            
+
         }
 
         //Todo nome da tebela no banco
@@ -17,7 +17,7 @@ namespace Todo.Infra.Data.Contexts
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             modelBuilder.Entity<TodoItem>().Property(x => x.Id);
-            modelBuilder.Entity<TodoItem>().Property(x => x.User).has
+            modelBuilder.Entity<TodoItem>().Property(x => x.User);
         }
     }
 }
